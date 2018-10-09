@@ -1,10 +1,9 @@
-# MICROSOFT codefundo++ 2018
-# R.V. COLLEGE OF ENGINEERING, BANGALORE
+# MICROSOFT codefundo++ 2018 (R.V. COLLEGE OF ENGINEERING, BANGALORE)
 
-Problem Statement:
+# Problem Statement:
 Prediction of wildfire by simulation in a virtual environment and its prevention using connected applications 
 
-Approach;
+# Approach:
 The  periodic satellite scans willl reveal the point of origin of fire.
 The various positions of the trees and their affinity to catching fire will be analysed with the help of image analysis and neural networks.
 The position and the affinity rating of the fire will be converted to raw data and passed to the simulation environment where the other factors such as wind obtained from the openweather api which will act as predicting factors in the simulation of the spread of wildfire.
