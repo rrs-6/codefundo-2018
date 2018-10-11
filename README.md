@@ -1,7 +1,8 @@
 # MICROSOFT codefundo++ 2018 (R.V. COLLEGE OF ENGINEERING, BANGALORE)
 
 # Problem Statement:
-Prediction of wildfire by simulation in a virtual environment and its prevention using connected applications 
+Identification of wildfire through  periodic stellite imagery, and predicting its course in a virtual environment
+ old *Prediction of wildfire by simulation in a virtual environment and its prevention using connected applications*
 
 # Approach:
 1)The  periodic satellite scans will reveal the point of origin of fire.
